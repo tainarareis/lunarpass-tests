@@ -5,5 +5,11 @@
     "@playwright/test": "^1.62.1",
     "@types/node": "^26.2.0"
   },
-  "scripts": {}
+  "scripts": {
+    "go": "claude",
+    "router": "9router"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-code": "^2.1.228"
+  }
 }
